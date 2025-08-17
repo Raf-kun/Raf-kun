@@ -19,7 +19,7 @@
   - Web: HTML, CSS 
   - Tools: Git
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
 </div>
 

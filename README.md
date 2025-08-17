@@ -15,11 +15,9 @@
 ---
 
   ## 🛠️ Skills
-<div align="center">
   - Languages: Python, JavaScript
   - Web: HTML, CSS 
   - Tools: Git
-</div>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
 

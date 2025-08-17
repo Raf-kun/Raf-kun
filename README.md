@@ -1,6 +1,8 @@
 ## Hi there 👋
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/>
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/><br>
+<b>My profile✨</b>
+</p>
 
 <!--
 **Raf-kun/Raf-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

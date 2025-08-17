@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.gif" width="800"/>
-</p>
-
 <div align="center">
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/>
@@ -11,17 +7,21 @@
   
 </div>
 
-<p>🎓 Student and beginner developer<br>
-💻 Interested in algorithms and web development :^</p>
+<div align="center">
+  <p>🎓 Student and beginner developer<br>
+  💻 Interested in algorithms and web development :^</p>
+</div>
 
 ---
 
-## 🛠️ Skills
-- Languages: Python, JavaScript
-- Web: HTML, CSS 
-- Tools: Git
+<div align="center">
+  ## 🛠️ Skills
+  - Languages: Python, JavaScript
+  - Web: HTML, CSS 
+  - Tools: Git
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 

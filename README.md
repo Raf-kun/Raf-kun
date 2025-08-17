@@ -37,6 +37,8 @@
 
 ---
 
+![Snake animation](https://github.com/Raf-kun/Raf-kun/blob/output/snake.svg)
+
 <!--
 **Raf-kun/Raf-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

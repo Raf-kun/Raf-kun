@@ -19,6 +19,7 @@
   - Web: HTML, CSS 
   - Tools: Git
 
+    ## 📊 Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
 </div>

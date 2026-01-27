@@ -79,15 +79,6 @@
   <tr>
     <td colspan="2" align="center">
       
-  **🎯 Fun Fact**
-  
-  I debug with `console.log()` and I'm not ashamed! 😄
-      
-  </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      
   **✨ Current Mood**
   
   ```
@@ -167,9 +158,10 @@
 <div align="center">
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Achievement+unlocked%3A+Started+the+journey!+%E2%9C%A8;More+trophies+coming+soon...+%F0%9F%8E%AF;Keep+coding%2C+keep+growing!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Motivational text"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Trophies+will+appear+here+once+earned!+%E2%9C%A8;Keep+coding%2C+achievements+are+on+the+way!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Trophy message"/>
   </p>
   
+  <!-- Trophies will display automatically as you earn GitHub achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=Raf-kun&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
   
 </div>
@@ -217,24 +209,20 @@
   <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhvZjBqOXJxdGh3ZGF6MHM3M2phY2NuZXQ2aHNwdWQzcXZsYjBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="60"/><br>
       <sub><b>Gaming</b></sub><br>
       🎮 Level up!
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="60"/><br>
       <sub><b>Learning</b></sub><br>
       📚 Always curious
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="60"/><br>
       <sub><b>Algorithms</b></sub><br>
       🔍 Problem solver
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://media.giphy.com/media/4ayiIWaq2VULC/giphy.gif" width="60"/><br>
       <sub><b>Coffee Addict</b></sub><br>
       ☕ Powered by caffeine
     </td>

@@ -158,7 +158,7 @@
 <div align="center">
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Trophies+will+appear+here+once+earned!+%E2%9C%A8;Keep+coding%2C+achievements+are+on+the+way!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Trophy message"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Trophies+will+appear+here+once+earned!+%E2%9C%A8;Keep+coding%2C+achievements+are+on+the+way!+%F0%9F%8C%B1%F0%9F%92%AA" alt=""/>
   </p>
   
   <!-- Trophies will display automatically as you earn GitHub achievements -->

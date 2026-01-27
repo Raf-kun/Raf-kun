@@ -28,7 +28,7 @@
 
 <br/>
 
-<!-- About Me section with cute icons -->
+<!-- About Me section with cute design -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   About Me
@@ -37,16 +37,66 @@
 
 <div align="center">
   
-  ```javascript
-  const raf = {
-      pronouns: "she/her",
-      location: "Somewhere coding ☕",
-      interests: ["Algorithms", "Web Dev", "Problem Solving"],
-      currentlyLearning: ["JavaScript", "Python", "New Frameworks"],
-      funFact: "I debug with console.log() and I'm not ashamed! 😄",
-      mood: "Coding mode: ON 💻✨"
-  }
+  <table>
+  <tr>
+    <td align="center" width="50%">
+      
+  **👤 Pronouns**
+  
+  `she/her`
+      
+  </td>
+    <td align="center" width="50%">
+      
+  **📍 Location**
+  
+  `Somewhere coding ☕`
+      
+  </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      
+  **💖 Interests**
+  
+  🧮 Algorithms
+  
+  🌐 Web Development
+  
+  🧠 Problem Solving
+      
+  </td>
+    <td align="center" width="50%">
+      
+  **📚 Currently Learning**
+  
+  JavaScript • Python
+  
+  New Frameworks ✨
+      
+  </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      
+  **🎯 Fun Fact**
+  
+  I debug with `console.log()` and I'm not ashamed! 😄
+      
+  </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      
+  **✨ Current Mood**
+  
   ```
+  ▰▰▰▰▰▰▰▰▰▰ Coding mode: ON 💻✨
+  ```
+      
+  </td>
+  </tr>
+  </table>
   
 </div>
 
@@ -64,7 +114,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=light" />
   
   ### 🛠️ Tools & Technologies
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,github&theme=light" />
   
   ### 🌱 Currently Learning
   <img src="https://skillicons.dev/icons?i=c,cpp&theme=light" />
@@ -116,14 +166,10 @@
 
 <div align="center">
   
-  <!-- Cute motivational GIF for when starting out -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Achievement+unlocked%3A+Started+the+journey!+%E2%9C%A8;More+trophies+coming+soon...+%F0%9F%8E%AF;Keep+coding%2C+keep+growing!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Motivational text"/>
   </p>
   
-  <!-- This will show trophies when you earn them -->
   <img src="https://github-profile-trophy.vercel.app/?username=Raf-kun&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
   
 </div>
@@ -161,20 +207,39 @@
 
 <br/>
 
-<!-- Fun section with cute animations -->
+<!-- Fun section with creative design -->
 <h2 align="center">
   🎮 When I'm Not Coding
 </h2>
 
 <div align="center">
   
-  ```yaml
-  hobbies:
-    - Gaming 🎮
-    - Learning new tech 📚
-    - Exploring algorithms 🔍
-    - Drinking coffee ☕
-  ```
+  <table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhvZjBqOXJxdGh3ZGF6MHM3M2phY2NuZXQ2aHNwdWQzcXZsYjBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="60"/><br>
+      <sub><b>Gaming</b></sub><br>
+      🎮 Level up!
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="60"/><br>
+      <sub><b>Learning</b></sub><br>
+      📚 Always curious
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="60"/><br>
+      <sub><b>Algorithms</b></sub><br>
+      🔍 Problem solver
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://media.giphy.com/media/4ayiIWaq2VULC/giphy.gif" width="60"/><br>
+      <sub><b>Coffee Addict</b></sub><br>
+      ☕ Powered by caffeine
+    </td>
+  </tr>
+  </table>
   
 </div>
 

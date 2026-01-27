@@ -2,12 +2,11 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/>
   
   <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Hi+there%2C+I'm+Raf-kun" alt="Typing SVG"/></h3>
-  <p>Talent makes a person good. Hard work makes a person great ^^</p>
+  <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Talent+makes+a+person+good.+Hard+work+makes+a+person+great+%5E%5E" alt="Typing SVG" /></p>
 </div>
 
 <div align="center">
-  <p>🎓 Student and beginner developer<br>
-  💻 Interested in algorithms and web development :^</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Student+and+beginner+developer;Interested+in+algorithms+and+web+development+%3A%5E" alt="Typing SVG" /></a>
 </div>
 
 ---

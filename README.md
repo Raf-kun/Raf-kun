@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/>
   
-  <h3>✨ Hi there, I'm Raf-kun ✨</h3> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=F789CB&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-  <p>Talent makes a person good. Hard work makes a person great ^^</p> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=F789CB&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-  
+  <h3>✨ Hi there, I'm Raf-kun ✨</h3>
+  <p>Talent makes a person good. Hard work makes a person great ^^</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=F789CB&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">

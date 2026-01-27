@@ -158,8 +158,11 @@
 <div align="center">
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Trophies+will+appear+here+once+earned!+%E2%9C%A8;Keep+coding%2C+achievements+are+on+the+way!+%F0%9F%8C%B1%F0%9F%92%AA" alt=""/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Trophies+will+appear+here+once+earned!+%E2%9C%A8;Keep+coding%2C+achievements+are+on+the+way!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Trophy message"/>
   </p>
+  
+  <!-- Trophies will display automatically as you earn GitHub achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Raf-kun&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
   
 </div>
 
@@ -188,9 +191,9 @@
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rafichek)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kat5438)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:14katosik03@gmail.com)
   
 </div>
 

@@ -39,7 +39,7 @@
   
   ```javascript
   const raf = {
-      pronouns: "he/him",
+      pronouns: "she/her",
       location: "Somewhere coding ☕",
       interests: ["Algorithms", "Web Dev", "Problem Solving"],
       currentlyLearning: ["JavaScript", "Python", "New Frameworks"],
@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,notion&theme=light" />
   
   ### 🌱 Currently Learning
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=light" />
   
 </div>
 
@@ -109,13 +109,23 @@
 
 <br/>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies Section -->
 <h2 align="center">
   🏆 GitHub Trophies
 </h2>
 
 <div align="center">
+  
+  <!-- Cute motivational GIF for when starting out -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&pause=1000&color=FF6EC7&center=true&width=600&lines=Achievement+unlocked%3A+Started+the+journey!+%E2%9C%A8;More+trophies+coming+soon...+%F0%9F%8E%AF;Keep+coding%2C+keep+growing!+%F0%9F%8C%B1%F0%9F%92%AA" alt="Motivational text"/>
+  </p>
+  
+  <!-- This will show trophies when you earn them -->
   <img src="https://github-profile-trophy.vercel.app/?username=Raf-kun&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  
 </div>
 
 <br/>
@@ -162,7 +172,6 @@
   hobbies:
     - Gaming 🎮
     - Learning new tech 📚
-    - Solving puzzles 🧩
     - Exploring algorithms 🔍
     - Drinking coffee ☕
   ```

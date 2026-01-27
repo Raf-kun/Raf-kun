@@ -5,9 +5,7 @@
   <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Talent+makes+a+person+good.+Hard+work+makes+a+person+great+%5E%5E" alt="Typing SVG" /></p>
 </div>
 
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Student+and+beginner+developer" alt="Typing SVG" /></a>
-</div>
 
 ---
 

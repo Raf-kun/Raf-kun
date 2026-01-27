@@ -12,9 +12,9 @@
   </a>
 
   <hr />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=visual_studio_code&border_radius=10" alt="GitHub Stats" />
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=500&height=100&lines=Interested+in+algorithms+and+web+development+%3A%5E;Building+cool+stuff+one+line+at+a+time" alt="Typing SVG" />
+</a>
 
 ---
 

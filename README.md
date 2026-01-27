@@ -13,37 +13,29 @@
 
 ---
 
-  ## 🛠 My Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+## My skills
+  - Languages: Python, JavaScript
+  - Web: HTML, CSS 
+  - Tools: Git
+
+    ## My top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-
+## GitHub statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raf-kun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raf-kun&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raf-kun&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raf-kun&theme=tokyonight" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raf-kun&label=Profile%20views&color=9B5DF7&style=flat" alt="Views" />
-</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raf-kun/Raf-kun/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raf-kun/Raf-kun/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raf-kun/Raf-kun/output/github-contribution-grid-snake.svg">
-</picture>
+Можешь и этот код улучшить сделать его более интересным 
 ---
 
 <!-- <div align="center">

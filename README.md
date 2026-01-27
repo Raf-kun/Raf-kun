@@ -34,8 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raf-kun&theme=tokyonight" alt="streak"/>
 </p>
 
-
-Можешь и этот код улучшить сделать его более интересным 
 ---
 
 <!-- <div align="center">

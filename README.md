@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVnN3Jmd2s3cHo3dGY5bjR2eDlna2FrdWtkeGU0ajdsdmdkd3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u4zZXYFztZtSZPlWZv/giphy.gif" width="400"/>
   
-  <h3>✨ Hi there, I'm Raf-kun ✨</h3>
+  <h3>✨ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=435&lines=Hi+there%2C+I'm+Raf-kun" alt="Typing SVG" />✨</h3>
   <p>Talent makes a person good. Hard work makes a person great ^^</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=F789CB&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -13,19 +12,19 @@
 
 ---
 
-  ## 🛠️ Skills
+  ## My skills
   - Languages: Python, JavaScript
   - Web: HTML, CSS 
   - Tools: Git
 
-    ## 📊 Top Languages
+    ## My top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-kun&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-## 📊 GitHub statistics
+## GitHub statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raf-kun&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>

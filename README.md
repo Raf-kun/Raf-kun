@@ -7,14 +7,9 @@
     </a>
   </h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=500&height=100&lines=Interested+in+algorithms+and+web+development+%3A%5E;Talent+makes+a+person+good.+Hard+work+makes+a+person+great+%5E%5E" alt="Typing SVG" />
-  </a>
-
-  <hr />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=9B5DF7&background=FBDAFF00&center=true&width=500&height=100&lines=Interested+in+algorithms+and+web+development+%3A%5E;Building+cool+stuff+one+line+at+a+time" alt="Typing SVG" />
-</a>
+</a>>
 
 ---
 
